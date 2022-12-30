@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\vovch\source\repos\test\test.cpp(35,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\vovch\source\repos\test\test.cpp(73,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vovch\source\repos\test\test.cpp(126,14): warning C4101: s: неиспользованная локальная переменная
+  test.vcxproj -> C:\Users\vovch\source\repos\matrix_iter\x64\Debug\test.exe
